@@ -12,6 +12,7 @@
 | Power BI | 交互式仪表板（KPI 监控、风险分布、混淆矩阵、维度下钻） |
 
 ## 项目结构
+
 bank-churn-prediction/
 ├── data/
 │   ├── BankChurners.csv
